@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Firebase Machine Learning</string>
+    <string name="text_recognition_string">Text Recognition</string>
+    <string name="camera_description">camera take image</string>
+    <string name="text_view_text_recognition">recognized text</string>
+    <string name="image_text_recognition_desc">image text recognition description</string>
+    <string name="gallery_description">gallery image</string>
+    <string name="title_activity_image_labeling">ImageLabeling</string>
+</resources>
